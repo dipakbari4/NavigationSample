@@ -18,5 +18,7 @@
         android:id="@+id/blankFragment2"
         android:name="com.dipak.navigationsample.BlankFragment2"
         android:label="fragmentOther"
-        tools:layout="@layout/fragment_blank2" />
+        tools:layout="@layout/fragment_blank2" >
+
+    </fragment>
 </navigation>
